@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5507337
+  lightness: 0.09309001
+  brandStrength: 0.1270366
+  brandColors:
+    - '#1E181E'
+    - '#FFFFFF'
+    - '#7F776D'
+    - '#B48877'
+    - '#E0DED0'
+  rhythmicContrast: 0.5312204
+typography_spectrum: 0.4127659
+name: MarcelVermeulen
