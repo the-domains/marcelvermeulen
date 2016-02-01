@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4127659
 color:
-  saturation: 0.5507337
-  lightness: 0.09309001
-  brandStrength: 0.1270366
+  saturation: 0.5085106
+  brandStrength: 1
+  lightness: 0.8382978
   brandColors:
     - '#1E181E'
     - '#FFFFFF'
     - '#7F776D'
     - '#B48877'
     - '#E0DED0'
-  rhythmicContrast: 0.5312204
-typography_spectrum: 0.4127659
+  rhythmicContrast: 0.6297872
+layout_spectrum: 1
 name: MarcelVermeulen
