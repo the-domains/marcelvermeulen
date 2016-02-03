@@ -1,3 +1,7 @@
+name: MarcelVermeulen
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4127659
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4127659
+title: Marcel Vermeulen
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5085106
-  brandStrength: 1
-  lightness: 0.8382978
   brandColors:
     - '#1E181E'
     - '#FFFFFF'
     - '#7F776D'
     - '#B48877'
     - '#E0DED0'
+  brandStrength: 1
+  lightness: 0.8382978
+  saturation: 0.5085106
   rhythmicContrast: 0.6297872
-layout_spectrum: 1
-name: MarcelVermeulen
+purpose: []
